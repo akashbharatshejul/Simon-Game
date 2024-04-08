@@ -1,2 +1,2 @@
 # Simon-Game
-project about simple Simon game clone 
+Project about Simon Game clone.
